@@ -42,7 +42,7 @@ public class TipoPrimitivo {
 		//short - 2 byes (de -32768 a 32767)
 		short shortExemplo = 32555;
 		
-		//char 2 bytes (recebe apenas um caractere)
+		//char - 2 bytes (recebe apenas um caractere)
 		char charExemplo = 'a';
 		
 		//int - 4 bytes (de -2147483645 a 2147483647)
